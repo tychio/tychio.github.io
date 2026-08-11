@@ -12,14 +12,14 @@ category: Tech
 首先介绍简单而常用的工具，颜色选择工具。
 
 ### [Kuler](https://kuler.adobe.com) ###
-![](/images/kuler.jpg)
+![](kuler.jpg)
 
 Kuler是adobe的一款在线配色方案分享服务，上面有海量的设计师们的配色方案，最多有5种颜色，有详细的颜色代码，HSV，RGB，CMKY，LAB，HEX。每一个配色方案都可以收藏，只有你有adobe的帐户，还可以随意修改。
 <!-- more -->
 ---
 
 ### [Colllor](http://colllor.com/) ###
-![](/images/colllor.jpg)
+![](colllor.jpg)
 
 虽然Kuler已经很强大了，但是由于它太强大了，似乎是面向设计师的产品，如果你不明白什么是对比色、相邻色、间隔色、等距色之类的概念，又无法确认主色调、辅色调、点缀色的区别，那我建议你还是选择Colllor，至少我觉得它对于业余设计者来说更加友好。
 
@@ -28,7 +28,7 @@ Colllor只需要选择一种主色调，然后会推荐一个辅色调，当然�
 ---
 
 ### [Colr](http://www.colr.org/) ###
-![](/images/colr.jpg)
+![](colr.jpg)
 
 好吧，就算你搞清除了这些颜色的概念，好不容易选定了颜色，却发现和配图放在一起怎么就不是那么一回事呢。那么你可以试试Colr，它通过图片取色。帮助你快速找出一张图片的主色调和辅色调，至少对于业余设计者来说这样的质量足够了。
 
@@ -37,7 +37,7 @@ Colllor只需要选择一种主色调，然后会推荐一个辅色调，当然�
 ---
 
 ### [ColorSchemeDesigner](http://colorschemedesigner.com/) ###
-![](/images/CSD.jpg)
+![](CSD.jpg)
 
 这些都太繁琐了？什么设计理论都是浮云，随便来点颜色，看着不那么丑不就行了。没问题，ColorSchemeDesigner提供了一个色环，还有几种模式，mono（单色）、complement（补色）、triad（三色）、tetrad（四色）、analogic（类似色）、accented analogic（强化类似色）。其实这些运用了一些对比色、间隔色还有分裂互补的理论知识，不过什么也不用管。按照想选择的颜色个数选个模式随便点点吧，看起来不错的颜色搭配马上拥有。
 

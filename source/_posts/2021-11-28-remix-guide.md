@@ -5,7 +5,7 @@ tags: [javascript,framework,ssr,next.js,react,guide]
 category: Tech
 ---
 
-![](/images/remix.jpg)
+![](remix.jpg)
 
 最近刚在JavaScript Weekly看到了Remix.run(以下简称Remix)准备开源发布1.0版本。没过两天就看到Remix飙到Github Trending趋势榜第一了。感觉是已经火了啊，不知道后续跟Next.js比怎么样。不过看起来不算太复杂，很多东西都封装起来了，语法很轻。所以准备学习一下，顺便做点学习笔记。
 
@@ -254,6 +254,6 @@ export const loader: LoaderFunction = async () => {
 
 另外我还替换了原来的logo。[谷歌绘图](https://docs.google.com/drawings/) 制作svg还挺好用。
 
-![](/images/my_cv.png)
+![](my_cv.png)
 
 [代码](https://github.com/tychio/my-cv)放到Github上了，后面还要继续，和文中可能会有差异。

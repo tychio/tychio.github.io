@@ -5,7 +5,7 @@ tags: [css, style, front-end]
 category: Tech
 ---
 
-![](/images/linguistic.png)
+![](linguistic.png)
 
 前一阵子在项目组中讲了一个关于CSS的Session，在讲之前我曾收到了许多意见，大部分是希望能讲讲CSS实用性的技术，比如盒模型，CSS3之类的。干货人人都喜欢，因为看得见摸得着，拿来就有用，但我最后还是决定讲一些”湿货“。因为在Code Diff的时候我发现了许多样式的问题不是由于不会写CSS导致的，而是由于在错误的地方使用了写在错误地方的样式。
 

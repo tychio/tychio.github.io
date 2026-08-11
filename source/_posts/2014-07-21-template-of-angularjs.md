@@ -5,7 +5,7 @@ tags: [javascript, angular, angularjs, template]
 category: Tech
 ---
 
-![AngularJS Template](/images/angular.jpg)
+![AngularJS Template](angular.jpg)
 
 作为最流行的MVVM（Model-View-View-Model）框架之一，相信大部分前端对AngularJS都不会陌生，我也一样久仰大名。不得不说，AngularJS所带来的改变是巨大的，被称为未来浏览器的模式一点也不为过，尤其是思维上的转变。
 

@@ -5,7 +5,7 @@ tags: [remote,works,online,home,freelancer]
 category: Work
 ---
 
-![office](/images/office.png)
+![office](office.png)
 
 远程/居家工作已经成为了一种趋势，更多的人选择了这种工作方式。在远程工作中，如何保持高效的开发流程、便捷的沟通与协作、灵活的项目切换，以及不断提升自己的技能和能力是非常重要的。在本文中，我将以自身多年远程居家工作的经验为基础，介绍一些工具和技术，来帮助你更好地适应远程工作的环境。
 

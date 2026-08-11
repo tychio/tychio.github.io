@@ -5,7 +5,7 @@ tags: [translate, angularjs, javascript]
 category: Work
 ---
 
-![Pro AngularJS](/images/pro-angularjs.png)
+![Pro AngularJS](pro-angularjs.png)
 
 从去年春天就开始翻译这本《Pro AngularJS》，前前后后将近1年半总算是正式出版。从最初的兴奋，到期间的苦逼，最后拿到样书，还是很满足的。这本书由浅入深的详细介绍了AngularJS的各种功能和原理，以及大量示例贯穿全书，开头甚至还有一些JavaScript的基础。原书一共600多页，我和同事各翻译了300多页，我主要是翻译的关于Services的第三部分以及第一部分的后几章。
 

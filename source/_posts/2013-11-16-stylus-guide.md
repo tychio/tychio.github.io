@@ -5,7 +5,7 @@ tags: [css,stylus,sass,less]
 category: Tech
 ---
 
-![Stylus Logo](/images/stylus.jpg)
+![Stylus Logo](stylus.jpg)
 Stylus似乎并不是很有名，以至于很多人不知道它是做什么的，但提到SASS相信有不少人听说过甚至使用过很长时间。其实无论是LESS、SASS还是Stylus甚至是Absurd这些预处理工具，都是对CSS的一种延伸和强化。出现这些工具的原因很简单，CSS本身只是一种描述性质的东西，甚至它不能算是语言而是样式表，所以我们需要一个有条件语句和变量甚至是函数的东西去动态生成CSS代码来达到提高效率和增强可维护性的目的。
 
 本文主要以Stylus语法本身和简单的使用为主要内容，它的目的是介绍和简单指南。将不会过多涉及Javascript的API调用等问题。

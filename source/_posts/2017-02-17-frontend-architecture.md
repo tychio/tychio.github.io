@@ -5,7 +5,7 @@ tags: [mvc, mvvm, react, architecture, frontend]
 category: Tech
 ---
 
-![](/images/component.jpg)
+![](component.jpg)
 
 很多人觉得，前后端的差异主要是分别承载了数据和样式，功能和皮肤。前端就是视觉方面的，后端是实质性的。追溯到很多年前，确实是这样的，所谓的前端只是由于后端MVC中的View过于复杂，为了提升用户体验，提高加载速度，以及降低服务器压力，所衍生出的一些优化技术。
 <!-- more -->
