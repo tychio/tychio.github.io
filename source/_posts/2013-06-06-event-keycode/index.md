@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 键盘事件的KeyCode分析
+slug: event-keycode
 tags: [Javascript,event,which,keycode,charcode,unicode,事件]
 category: Tech
 ---

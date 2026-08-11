@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 《编程珠玑》Programming Pearls
+slug: Programming-Pearls
 tags: [software,SE,program,code,软件工程,编程珠玑]
 category: Read
 ---

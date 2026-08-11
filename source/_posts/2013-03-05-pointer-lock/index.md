@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 使用Pointer Lock技术
+slug: pointer-lock
 tags: [html,html5,mouse look,鼠标视角]
 category: Tech
 ---

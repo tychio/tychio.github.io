@@ -1,6 +1,7 @@
 ---
 title: Nest.js快速启动API项目
 date: 2022-08-15 20:40:10
+slug: nestjs
 tags: [javascript,framework,nestjs,node,api]
 category: Tech
 ---

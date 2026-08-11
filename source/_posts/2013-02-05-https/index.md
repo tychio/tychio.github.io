@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Https协议握手流程
+slug: https
 tags: [http,https,protocol,协议]
 category: Tech
 ---

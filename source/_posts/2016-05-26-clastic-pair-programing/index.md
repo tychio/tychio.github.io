@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 碎片化结对编程
+slug: clastic-pair-programing
 tags: [agile, development, thinking, clastic]
 category: Work
 ---

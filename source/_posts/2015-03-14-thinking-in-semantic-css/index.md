@@ -1,6 +1,7 @@
 ---
 layout: post
 title: CSS语义思维
+slug: thinking-in-semantic-css
 tags: [css, style, front-end]
 category: Tech
 ---

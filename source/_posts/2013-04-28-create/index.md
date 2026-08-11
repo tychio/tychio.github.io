@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 在Github上创建一个博客
+slug: create
 tags: [github,jekyll,pages]
 category: Tech
 ---

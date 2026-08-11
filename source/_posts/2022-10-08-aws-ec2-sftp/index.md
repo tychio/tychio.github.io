@@ -1,6 +1,7 @@
 ---
 title: 使用S3FS将AWS S3挂载到EC2上
 date: 2022-10-08 11:21:40
+slug: aws-ec2-sftp
 tags: [aws,ec2,sftp,ssh,devops,linux]
 category: Tech
 ---

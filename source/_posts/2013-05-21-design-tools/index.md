@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 推荐几个配色工具
+slug: design-tools
 tags: [tool,recommend,color,颜色,调色,配色]
 category: Tech
 ---

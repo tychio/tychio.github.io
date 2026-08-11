@@ -1,6 +1,7 @@
 ---
 title: 远程居家工作心得
 date: 2023-03-18 19:53:45
+slug: freelancer
 tags: [remote,works,online,home,freelancer]
 category: Work
 ---

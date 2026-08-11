@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Stylus使用指南
+slug: stylus-guide
 tags: [css,stylus,sass,less]
 category: Tech
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 浅谈AngularJS模板
+slug: template-of-angularjs
 tags: [javascript, angular, angularjs, template]
 category: Tech
 ---

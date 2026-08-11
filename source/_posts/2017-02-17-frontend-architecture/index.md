@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 后MVC时代的前端架构
+slug: frontend-architecture
 tags: [mvc, mvvm, react, architecture, frontend]
 category: Tech
 ---

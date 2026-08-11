@@ -1,6 +1,7 @@
 ---
 title: 远程工作的这几年
 date: 2021-11-23 17:32:10
+slug: remote-working
 tags: [remote, developer, team]
 category: Work
 ---

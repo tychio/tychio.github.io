@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 翻译《Pro AngularJS》
+slug: translate-pro-angularjs
 tags: [translate, angularjs, javascript]
 category: Work
 ---

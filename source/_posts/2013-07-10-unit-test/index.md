@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Javascript的Unit Test
+slug: unit-test
 tags: [test,unit,jasmine,CI,karma,单元测试,TDD,BDD]
 category: Tech
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 《代码整洁之道》Clean Code
+slug: clean-code
 tags: [software,SE,软件工程,代码整洁]
 category: Read
 ---

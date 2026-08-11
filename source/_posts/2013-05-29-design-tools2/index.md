@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 推荐一些图片工具
+slug: design-tools2
 tags: [tool,recommend,image,图片,工具]
 category: Tech
 ---

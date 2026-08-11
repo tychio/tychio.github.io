@@ -1,6 +1,7 @@
 ---
 layout: post
 title: HTML5实现图片上传
+slug: html5-upload-file
 tags: [html5,html,file,upload]
 category: Tech
 ---

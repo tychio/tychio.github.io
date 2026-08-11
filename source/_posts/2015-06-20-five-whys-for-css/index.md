@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 用“五个为什么”写CSS
+title: 用"五个为什么"写CSS
+slug: five-whys-for-css
 tags: [css, style, front-end, fivewhys]
 category: Tech
 ---

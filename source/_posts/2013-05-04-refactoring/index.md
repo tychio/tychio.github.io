@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 《重构》Refactoring
+slug: refactoring
 tags: [software,SE,软件工程,重构]
 category: Read
 ---

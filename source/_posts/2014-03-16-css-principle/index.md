@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 如何写好CSS？（OOCSS\DRY\SMACSS）
+slug: css-principle
 tags: [css,oocss,drycss,smacss]
 category: Tech
 ---

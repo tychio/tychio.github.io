@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 改进我的Workflow
+slug: improve-workflow
 tags: [workflow,grunt,bower,sublime text,chrome,github,git,node]
 category: Tech
 ---
