@@ -100,6 +100,8 @@ header
   width 40px
   height 40px
   font-family 'Times New Roman', Times, serif
+  cursor pointer
+  z-index 100
 
   .logo-patial
     position absolute
@@ -117,6 +119,38 @@ header
       font-size 1.9em
       font-weigth 300
       color #a03030
+
+  &:hover
+    .logo-top
+      animation spread-top 2s ease-in-out infinite
+    .logo-left
+      animation spread-left 2s ease-in-out infinite
+    .logo-right
+      animation spread-right 2s ease-in-out infinite
+
+@keyframes spread-top
+  0%
+    transform rotate(0deg) translate(0px, -8px)
+  50%
+    transform rotate(720deg) translate(0px, -20px)
+  100%
+    transform rotate(360deg) translate(0px, -8px)
+
+@keyframes spread-left
+  0%
+    transform rotate(120deg) translate(-1px, -9px)
+  50%
+    transform rotate(840deg) translate(-3px, -20px)
+  100%
+    transform rotate(480deg) translate(-1px, -9px)
+
+@keyframes spread-right
+  0%
+    transform rotate(-120deg) translate(-2px, -8px)
+  50%
+    transform rotate(600deg) translate(-4px, -20px)
+  100%
+    transform rotate(240deg) translate(-2px, -8px)
 /* ==body */
 main
   position relative
